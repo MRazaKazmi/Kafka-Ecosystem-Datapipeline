@@ -8,6 +8,8 @@ In this project the objective is to build a real-time data pipeline levaraging K
 
 A high-level architectural representation of the data pipeline is shown in the figure below. Various components of the Kafka ecosystem are shown such as kafka Connect and Kafka REST Proxy.
 
+![Image of datapipeline architecture](https://github.com/MRazaKazmi/kafka-data-ingestion-public-transit/blob/master/data_pipeline_architecture.png)
+
 
 ## Project Implementation 
 
