@@ -1,6 +1,6 @@
 # Data Ingestion using Kafka and its Ecosystem to create a Dashboard
 
-## Project Objective
+## Project Goal
 
 In this project the objective is to build a real-time data pipeline levaraging Kafka and its ecosystem including kafka Connect and Kafka REST Proxy. The data pipeline combines data from multiple sources which include a Postgres database containing stations data, live weather data served through a REST endpoint and arrivals and turnstile events data and feeds into a dashboard which shows public transit status in real-time. 
 
